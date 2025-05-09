@@ -1,3 +1,3 @@
 # Truss-Desktop-App-Test
 
-- Test Repo for the auto update
+- Test Repo for the newer version of the Truss Desktop APP
